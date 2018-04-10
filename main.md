@@ -19,3 +19,7 @@ some stuff and so on
 ## appendix
 
 Thank you very much...
+and github.com! its great!
+better is gitlab...
+blibla blub
+ole ole
