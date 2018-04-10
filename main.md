@@ -14,6 +14,7 @@ some stuff and so on
 ## bibliography
 [important]
 [paper2]
+[paper3]
 
 ## appendix
 
